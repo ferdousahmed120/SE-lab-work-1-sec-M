@@ -1,5 +1,5 @@
 #include<stdio.h>
 int main(){
-printf("Student info");
+printf("Student e info");
 return 0;
 }
